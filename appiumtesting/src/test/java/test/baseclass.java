@@ -35,7 +35,7 @@ public void setup1() throws IOException
 @Test
 public void testing()
 {
-	System.out.println("test started....");
+	System.out.println("test started");
 }
 	@AfterSuite
 	public void teardown()
